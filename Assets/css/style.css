@@ -240,6 +240,10 @@ nav ul li {
   margin-bottom: var(--bottom-margin-2);
 }
 
+h3 , h4 {
+  margin: var(--bottom-margin-2);
+}
+
 .contact-form-container {
   background-color: white; 
   max-width: 40.75rem;
